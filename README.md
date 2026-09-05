@@ -1,5 +1,10 @@
 # Webverse Vol. 6: Supercharging Your Apps with Google Firebase
 
+[![Status: Archive](https://img.shields.io/badge/Status-Archive-lightgrey)](docs/state.md)
+[![Stack: Firebase](https://img.shields.io/badge/Stack-Firebase-black)](#about)
+[![FMD philosophy: 1.31.0](https://img.shields.io/badge/FMD%20philosophy-1.31.0-blue)](AGENTS.md)
+
+
 ## Post-Jam Study Jam Activity: GDGCoC PUP Forum 🇵🇭
 ### Google Developer Groups on Campus - PUP
 
@@ -10,6 +15,7 @@ In this post-jam activity, your task is to turn this beautiful, fully styled moc
 ## Table of Contents
 
 - [About](#about)
+- [Start here](#start-here)
 - [Your Mission](#your-mission)
 - [Quick start](#quick-start)
 - [File Structure](#file-structure)
@@ -25,6 +31,12 @@ In this post-jam activity, your task is to turn this beautiful, fully styled moc
 ## About
 
 Post-jam Firebase activity for Webverse Vol. 6 at GDG on Campus PUP. Learners wire Google Sign-In and Cloud Firestore into a pre-styled React forum so posts stream in real time. Aimed at cadets who finished the study jam and want hands-on practice.
+
+## Start here
+
+- **Humans:** this README, then [docs/state.md](docs/state.md)
+- **Agents:** [AGENTS.md](AGENTS.md) (state → index → FLAGS)
+- **Contributors:** table below
 
 ## Your Mission
 
@@ -283,8 +295,10 @@ Let's build something awesome, supercharge our skills, and grow together with th
 
 ## Contributors
 
-This project is made possible by the GDG PUP community:
+This project is made possible by the GDG PUP community.
 
-| Role | Name |
-| --- | --- |
-| 💻 **Development** | hanji-exe |
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Carlos Jerico Dela Torre](https://www.linkedin.com/in/delatorrecj) | Chief Technology Officer (2025-2026) | [@delatorrecj](https://github.com/delatorrecj) |
+| hanji-exe | Development |  |
+
